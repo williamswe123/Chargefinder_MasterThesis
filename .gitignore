@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+Intermittent/train_loader.pkl
+Intermittent/val_loader.pkl
+Intermittent/test_loader.pkl
+functions/__pycache__/*
+__pycache__/*
